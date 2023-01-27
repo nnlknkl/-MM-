@@ -1,3 +1,18 @@
+ETHIO ONLINE SHOOPING
+UNITY UNIVERSITY DEPARTEMENT OF COMPUTER SCIENCE
+INTERNET PROGRAMMING 2 PROJECT ON ETHIO ONLINE SHOOPING
+Group Name 
+
+1 Ekram teshome uu79144
+2 Azaria solomon uu79359
+3 Beamlak yilma  uu79255
+4 Ezera hailu -79313R
+5 Amanuel mekonnen- uu80805r
+6 ermiyas tesfaye uu79358R
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
