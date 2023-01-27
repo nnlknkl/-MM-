@@ -3,11 +3,11 @@ UNITY UNIVERSITY DEPARTEMENT OF COMPUTER SCIENCE
 INTERNET PROGRAMMING 2 PROJECT ON ETHIO ONLINE SHOOPING
 Group Name 
 
-1 Ekram teshome uu79144
-2 Azaria solomon uu79359
-3 Beamlak yilma  uu79255
+1 Ekram teshome uu79144R
+2 Azaria solomon uu79359R
+3 Beamlak yilma  uu79255R
 4 Ezera hailu -79313R
-5 Amanuel mekonnen- uu80805r
+5 Amanuel mekonnen- uu80805R
 6 ermiyas tesfaye uu79358R
 
 
